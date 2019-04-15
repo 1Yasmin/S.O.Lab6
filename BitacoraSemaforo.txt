@@ -1,0 +1,90 @@
+se creo el thread no.3076340544
+se creo el thread no.3067947840
+se creo el thread no.3059555136
+iteracion numero 0
+se creo el thread no.3049065280
+Semaforo activado por el thread no.3076340544
+Recurso tomado por el thread no.3076340544
+iteracion numero 0
+se creo el thread no.3038772032
+iteracion numero 0
+iteracion numero 0
+iteracion numero 0
+Recurso devuelto por el thread no.3076340544
+iteracion numero 1
+Semaforo activado por el thread no.3067947840
+Recurso tomado por el thread no.3067947840
+Recurso devuelto por el thread no.3067947840
+iteracion numero 2
+Semaforo activado por el thread no.3076340544
+Recurso tomado por el thread no.3076340544
+Recurso devuelto por el thread no.3076340544
+iteracion numero 1
+Semaforo activado por el thread no.3067947840
+Recurso tomado por el thread no.3067947840
+Recurso devuelto por el thread no.3067947840
+Semaforo activado por el thread no.3076340544
+Recurso tomado por el thread no.3076340544
+iteracion numero 2
+Recurso devuelto por el thread no.3076340544
+Semaforo activado por el thread no.3076340544
+Recurso tomado por el thread no.3076340544
+iteracion numero 1
+Recurso devuelto por el thread no.3076340544
+iteracion numero 1
+Semaforo activado por el thread no.3067947840
+Recurso tomado por el thread no.3067947840
+Recurso devuelto por el thread no.3067947840
+iteracion numero 2
+Semaforo activado por el thread no.3059555136
+Recurso tomado por el thread no.3059555136
+Recurso devuelto por el thread no.3059555136
+iteracion numero 3
+Semaforo activado por el thread no.3049065280
+Recurso tomado por el thread no.3049065280
+Recurso devuelto por el thread no.3049065280
+se ha cerrado el thread no.3076340544
+Semaforo activado por el thread no.3067947840
+Recurso tomado por el thread no.3067947840
+Recurso devuelto por el thread no.3067947840
+Semaforo activado por el thread no.3059555136
+Recurso tomado por el thread no.3059555136
+iteracion numero 2
+Recurso devuelto por el thread no.3059555136
+iteracion numero 3
+Semaforo activado por el thread no.3049065280
+Recurso tomado por el thread no.3049065280
+Recurso devuelto por el thread no.3049065280
+Semaforo activado por el thread no.3059555136
+Recurso tomado por el thread no.3059555136
+Recurso devuelto por el thread no.3059555136
+Semaforo activado por el thread no.3059555136
+Recurso tomado por el thread no.3059555136
+iteracion numero 3
+Recurso devuelto por el thread no.3059555136
+iteracion numero 3
+Semaforo activado por el thread no.3049065280
+Recurso tomado por el thread no.3049065280
+Recurso devuelto por el thread no.3049065280
+Semaforo activado por el thread no.3049065280
+Recurso tomado por el thread no.3049065280
+Recurso devuelto por el thread no.3049065280
+Semaforo activado por el thread no.3076340544
+Recurso tomado por el thread no.3076340544
+se ha cerrado el thread no.3067947840
+se ha cerrado el thread no.3059555136
+Recurso devuelto por el thread no.3076340544
+iteracion numero 1
+Semaforo activado por el thread no.3067947840
+Recurso tomado por el thread no.3067947840
+Recurso devuelto por el thread no.3067947840
+iteracion numero 2
+Semaforo activado por el thread no.3059555136
+Recurso tomado por el thread no.3059555136
+Recurso devuelto por el thread no.3059555136
+iteracion numero 3
+Semaforo activado por el thread no.3049065280
+Recurso tomado por el thread no.3049065280
+Recurso devuelto por el thread no.3049065280
+se ha cerrado el thread no.3049065280
+se ha cerrado el thread no.3038772032
